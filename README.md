@@ -29,5 +29,6 @@ You can shoot me an email at <a href="mailto:info@mohsenfathipour.com">info@mohs
 
 #### ⚙️ GitHub : 
 <p align="center">
-<img style="width:45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohsenfathipour&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;<img style="width:45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohsenfathipour&layout=compact&langs_count=8"/>
+<a href="https://github.com/mohsenfathipour"><img style="width:45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohsenfathipour&show_icons=true&include_all_commits=true&count_private=true"/>
+<a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/mohsenfathipour"><img style="width:45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohsenfathipour&layout=compact&langs_count=8"/></a>
 </p>
