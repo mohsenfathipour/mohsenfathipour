@@ -7,6 +7,7 @@
 
 <p>Attentive and goal-driven IT professional with over 8 years of experience in full-stack development and project management across diverse industries. Developing sophisticated and high-traffic websites utilizing PHP, MySQL, NoSQL databases, Elasticsearch, and other cutting-edge technologies. With team leadership and project management skills. I constantly monitor and optimize the software development process while balancing business needs with budget limits and time planning.</p>
 
+<hr>
 
 #### 🤝 Connect with Me : 
 
@@ -14,6 +15,7 @@
 You can shoot me an email at <a href="mailto:info@mohsenfathipour.com">info@mohsenfathipour.com</a> . I'll try to respond as soon as I can.
 </p>
 
+<hr>
 
 #### 🌐 Social Media : 
 
@@ -23,6 +25,7 @@ You can shoot me an email at <a href="mailto:info@mohsenfathipour.com">info@mohs
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mohsenfathipour_com/) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MohsenFathiPour)
 
+<hr>
 
 #### ⚙️ GitHub : 
 <p align="center">
