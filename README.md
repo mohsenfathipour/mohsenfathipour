@@ -2,20 +2,20 @@
 
 <h2>Hey there! I'm <a href="https://mohsenfathipour.com">Mohsen Fathipour</a></h2>
 
-#### 👨🏻‍💻 About Me :
+### 👨🏻‍💻 About Me :
 <b>Web Developer, Project Manager and Technology Teacher</b>
 
 <p>Attentive and goal-driven IT professional with over 8 years of experience in full-stack development and project management across diverse industries. Developing sophisticated and high-traffic websites utilizing PHP, MySQL, NoSQL databases, Elasticsearch, and other cutting-edge technologies. With team leadership and project management skills. I constantly monitor and optimize the software development process while balancing business needs with budget limits and time planning.</p>
 
 
-#### 🤝 Connect with Me : 
+### 🤝 Connect with Me : 
 
 <p>
 You can shoot me an email at <a href="mailto:info@mohsenfathipour.com">info@mohsenfathipour.com</a> . I'll try to respond as soon as I can.
 </p>
 
 
-#### 🌐 Social Media : 
+### 🌐 Social Media : 
 
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohsenfathipour.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsenfathipour/) 
@@ -24,7 +24,7 @@ You can shoot me an email at <a href="mailto:info@mohsenfathipour.com">info@mohs
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MohsenFathiPour)
 
 
-#### ⚙️ GitHub : 
+### ⚙️ GitHub : 
 <p align="center">
 <img style="width:45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohsenfathipour&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;<img style="width:45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohsenfathipour&layout=compact&langs_count=8"/>
 </p>
