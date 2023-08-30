@@ -1,4 +1,4 @@
-![MohsenFathipour Cover](https://mohsenfathipour.com/img/bg/cover.jpg)
+![MohsenFathipour Cover](https://mohsenfathipour.com/assets/front/img/cover.jpg)
 
 <h2>Hey there! I'm <a href="https://mohsenfathipour.com">Mohsen Fathipour</a></h2>
 
