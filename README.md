@@ -5,14 +5,15 @@
 #### 👨🏻‍💻 About Me :
 <b>Web Developer, Project Manager and Technology Teacher</b>
 
-<p>Attentive and goal-driven IT professional with over 8 years of experience in full-stack development and project management across diverse industries. Developing sophisticated and high-traffic websites utilizing PHP, MySQL, NoSQL databases, Elasticsearch, and other cutting-edge technologies. With team leadership and project management skills. I constantly monitor and optimize the software development process while balancing business needs with budget limits and time planning.</p>
+<p>I am an attentive and goal-driven software engineer with over 10 years of experience in full-stack development and project management across diverse industries. Developing sophisticated and high-traffic websites and web applications utilizing cutting-edge technologies.</p>
+<p>With team leadership and project management skills, I constantly monitor and optimize the software development process while balancing business needs with budget limits and time planning.</p>
 
 <hr>
 
 #### 🤝 Connect with Me : 
 
 <p>
-You can shoot me an email at <a href="mailto:info@mohsenfathipour.com">info@mohsenfathipour.com</a> . I'll try to respond as soon as I can.
+You can shoot me an email at <a href="mailto:info@mohsenfathipour.com">info@mohsenfathipour.com</a>. I'll try to respond as soon as I can.
 </p>
 
 <hr>
