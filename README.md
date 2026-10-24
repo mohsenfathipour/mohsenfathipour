@@ -1,4 +1,4 @@
-![MohsenFathipour Cover]([https://mohsenfathipour.com/assets/front/img/cover.jpg](https://yt3.googleusercontent.com/gonKOLhMHWPeJh3s9yMlTdWqlSs0rsxjSk3TwsusQGwXcD0NnVoNJTBbjhL4l-x6JQJn7RTCNw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj))
+![MohsenFathipour Cover]([https://mohsenfathipour.com/assets/front/img/cover.jpg](https://yt3.googleusercontent.com/gonKOLhMHWPeJh3s9yMlTdWqlSs0rsxjSk3TwsusQGwXcD0NnVoNJTBbjhL4l-x6JQJn7RTCNw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 <h2>Hey there! I'm <a href="https://mohsenfathipour.com">Mohsen Fathipour</a></h2>
 
